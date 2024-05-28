@@ -8,9 +8,9 @@ Python 3.x
 Required Python packages: qrcode, PIL, pyzbar
 You can install the required packages using pip: pip install qrcode pillow pyzbar
 
-Usage
-Generate QR Code:
+Usage:
 
+Generate QR Code:
 Run the script and choose the option to generate a QR code.
 Enter the data you want to encode in the QR code.
 Provide the file path where you want to save the QR code image.
@@ -18,6 +18,7 @@ Decode QR Code:
 
 Run the script and choose the option to decode a QR code.
 Enter the file path of the QR code image you want to decode.
+
 Example
 Generating a QR Code
 $ python qr_code.py
