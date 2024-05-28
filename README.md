@@ -1,14 +1,13 @@
 # QR-Code-Generator-and-Decoder
 
 QR Code Generator and Decoder:
-
 This Python script allows you to generate QR codes from data and decode existing QR code images.
 
 Prerequisites:
-
 Python 3.x
 Required Python packages: qrcode, PIL, pyzbar
 You can install the required packages using pip: pip install qrcode pillow pyzbar
+
 
 Usage:
 
@@ -20,6 +19,8 @@ Provide the file path where you want to save the QR code image.
 Decode QR Code:
 Run the script and choose the option to decode a QR code.
 Enter the file path of the QR code image you want to decode.
+
+
 
 Example:
 
